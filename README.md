@@ -133,11 +133,8 @@
         <!-- Autobiography Section -->
         <section id="autobiography">
             <h2>Autobiography</h2>
-            <img src="https://via.placeholder.com/800x400" alt="Autobiography Image">
-            <p>
-                I was born in Prieto Diaz, Barangay Maningcay Di Oro. Growing up, I faced challenges, including living in the mountains for a year. 
-                Despite hardships, I supported my family through farming and construction work, inspiring me to pursue my dream of becoming a police officer.
-            </p>
+            <img src="images (2).png" alt="Autobiography Image">
+            <p>: I was born in the town of Prieto Diaz, barangay maningcay di oro, I also grew up and studied here, when I was young we lived in the mountains for almost 1 year, and I also studied grade 1 in the school of sto domingo but when I finished grade 1, we came down from the mountain to move house and I could study properly in town, and here I also graduated from elementary school at prieto central school until I went to high school, kind and helpful I'm also with my parents, but sometimes I can't handle it because school work is at the same time, I'm good at all jobs, whether it's farming or construction, I'm good because I help my parents, I don't like seeing them that I will work hard because I can help, that I am good at these jobs, I also earn extra allowance so they don't have problems anymore, I also don't like to ask my parents because I want my own money I'm spending money, now what I and my father have been busy with is taking care of the buffalo for my studies so that when the day comes when I need the money, I'll sell it, we're just poor and we're working hard to make ends meet in hardship, it's not easy but it's possible for the dream, I'm making this inspiration that is our life now so that I can work harder in life, to not give up and continue what my parents are working hard for, dad said "Think about it Your mother and I are tired just so that you can finish and work hard for us because that's not for us but also for you" "That's the only thing we can inherit from you" he always told me. That's why when I remember and think about it, I say that I can handle it myself, I shouldn't waste the opportunity.now I'm doing everything to finish, they taught me in a private school at scci school so I'm doing everything even if it's hard I'll improve to finish, even if I come home sweaty and hungry I'm ignored just to achieve the dream of It was my father's hope and my dream to enter the PNP, but I always wanted to enter as a police officer, so I worked hard. </p>
             <h3>My Favorite Music</h3>
             <audio controls>
                 <source src="videoplayback.webm" type="audio/webm">
@@ -147,9 +144,9 @@
         <!-- Plagiarism Section -->
         <section id="plagiarism">
             <h2>Article: Plagiarism</h2>
-            <p>
-                Plagiarism is the unethical appropriation of another author's ideas or expressions without proper attribution. It can lead to consequences such as failing grades, academic probation, or expulsion.
-                Practicing proper citation is essential to maintain academic integrity and respect intellectual property.
+            <p>   plagiarism is defined as the unethical appropriation of another author's ideas or expressions without proper attribution. It is considered a serious offense across various fields, often equated to theft of intellectual property. The Oxford English Dictionary describes it as the wrongful appropriation of someone else's ideas or expressions. In India, plagiarism often arises from a lack of awareness, leading to unintentional offenses, especially among students who may not fully understand the implications of using others' work without citation.
+Plagiarism is prevalent in educational institutions, where copying assignments or ideas from peers or online sources is common. This habit can hinder students' learning and lead to severe repercussions, including failing grades, academic probation, and even expulsion. Consequences can affect a student's future academic and professional reputation.
+To prevent plagiarism, it is essential to practice proper citation and acknowledge sources used in research. Techniques like quoting, paraphrasing, and summarizing can help incorporate others' ideas ethically. Promoting good writing practices and understanding the importance of academic integrity is crucial for students, as avoiding plagiarism not only fosters respect but also enhances their learning experience.
             </p>
         </section>
         <!-- Malware Section -->
@@ -174,6 +171,12 @@
                     <td>Microsoft Defender, Norton 360, Malwarebytes, McAfee.</td>
                 </tr>
             </table>
+            <p>VIRUSES
+A virus is a malicious program capable of infecting your files or your computer. It can result in different kinds of malfunction, hard drive erasure, etc.
+To avoid contamination protect your computer by installing anti-virus software and updating it regularly. Never open an email attachment whose provenance or reliability you are not sure of. Sciences Po’s Information Systems Office has installed anti-virus software on all campus terminals, and regularly updates it.
+SPAM
+Spam is an unsolicited email sent to a large number of recipients without their prior agreement. Some are just pranks, others are more malicious—attempts to acquire your banking information, for example (in which case it’s called “phishing”, see below).
+ </p>
             <h3>Informative Video</h3>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/QH3-Pq8EOfM" frameborder="0" allowfullscreen></iframe>
         </section>
