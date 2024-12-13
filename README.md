@@ -192,13 +192,13 @@ Spam is an unsolicited email sent to a large number of recipients without their 
                 <label>Gender:</label>
                 <input type="radio" id="male" name="gender" value="male"><label for="male">Male</label>
                 <input type="radio" id="female" name="gender" value="female"><label for="female">Female</label>
-                <label>Hobbies:</label>
-                <input type="checkbox" id="reading" name="hobbies" value="Reading"><label for="reading">Reading</label>
-                <input type="checkbox" id="traveling" name="hobbies" value="Traveling"><label for="traveling">Traveling</label>
-                <label for="country">Country:</label>
+                <label> What is your Favorite Song of Adie?:</label>
+                <input type="checkbox" id="reading" name="hobbies" value="Reading"><label for="reading"> Paraluman</label>
+                <input type="checkbox" id="traveling" name="hobbies" value="Traveling"><label for="traveling"></label>
+                <label for="country">Section:</label>
                 <select id="country" name="country">
-                    <option value="Philippines">Philippines</option>
-                    <option value="USA">USA</option>
+                    <option value="Philippines">Alpha</option>
+                    <option value="USA">Echo</option>
                     <option value="India">India</option>
                 </select>
                 <button type="submit">Submit</button>
